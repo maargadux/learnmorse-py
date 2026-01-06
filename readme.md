@@ -92,7 +92,7 @@ Esse fluxo simples se transforma em uma meditação de padrões, misturando lóg
 - Dá noção sobre sistemas de comunicação
 - Une programação e habilidades cognitivas
 - Cada sessão é um micro-experimento em decodificação, uma pequena jornada em lógica, criatividade e curiosidade.
-- 
+
 ---
 
 🌈 Expanding Possibilities || Possibilidades de Expansão
@@ -112,6 +112,7 @@ Esse fluxo simples se transforma em uma meditação de padrões, misturando lóg
 - Incluir feedback sonoro para pontos e traços
 - Efeitos visuais no terminal: cores, símbolos piscantes, gradientes
 - Essas expansões podem transformar um treinador simples em um playground imersivo de Morse.
+
 ---
 
 🤝 Contribute | Contribua
@@ -131,7 +132,7 @@ Your ideas, experiments, and improvements are welcome:
 - Sugerir funcionalidades
 - Enviar pull request
 - Juntos, podemos tornar o aprendizado de Morse artístico, divertido e profundamente envolvente.
-- 
+
 ---
 
 🔗 Links & Contact | Links & Contato
@@ -141,5 +142,6 @@ GitHub: https://github.com/maargadux
 Project inspiration & experiments: Explore patterns, rhythms, and code
 
 Keep experimenting, learning, and creating ✨
+
 
 
