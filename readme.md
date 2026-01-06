@@ -19,11 +19,15 @@ Convida quem aprende a **interagir, experimentar e explorar padrões**, misturan
 
 ## ⚡ Features | Funcionalidades
 
-- Real-time translation from letters, numbers, and words | Tradução em tempo real de letras, números e palavras  
-- Interactive terminal interface with feedback | Interface interativa no terminal com feedback  
-- Handles unknown characters gracefully | Reconhece caracteres desconhecidos  
-- Lightweight and immersive | Leve e envolvente  
-- Encourages learning through experimentation | Incentiva aprendizado por experimentação  
+- Real-time translation from letters, numbers, and words || Tradução em tempo real de letras, números e palavras  
+
+- Interactive terminal interface with feedback || Interface interativa no terminal com feedback  
+
+- Handles unknown characters gracefully || Reconhece caracteres desconhecidos  
+
+- Lightweight and immersive || Leve e envolvente  
+
+- Encourages learning through experimentation || Incentiva aprendizado por experimentação  
 
 ---
 
@@ -59,37 +63,45 @@ Esse fluxo simples se transforma em uma meditação de padrões, misturando lóg
 
 ---
 
-🌌 Learning Beyond Code | Aprendizado Além do Código
+🌌 Learning Beyond Code || Aprendizado Além do Código
 
-Morse trains memory and pattern recognition | Morse treina memória e reconhecimento de padrões
-Encourages experimentation with letters, numbers, and words | Incentiva experimentação com letras, números e palavras
-Provides insight into communication systems | Dá noção sobre sistemas de comunicação
-Bridges coding and cognitive skills | Une programação e habilidades cognitivas
-Each session is a micro-experiment in decoding, a small journey in logic, creativity, and curiosity.
-Cada sessão é um micro-experimento em decodificação, uma pequena jornada em lógica, criatividade e curiosidade.
+Morse trains memory and pattern recognition || Morse treina memória e reconhecimento de padrões
+
+Encourages experimentation with letters, numbers, and words || Incentiva experimentação com letras, números e palavras
+
+Provides insight into communication systems || Dá noção sobre sistemas de comunicação
+
+Bridges coding and cognitive skills || Une programação e habilidades cognitivas
+
+Each session is a micro-experiment in decoding, a small journey in logic, creativity, and curiosity. || Cada sessão é um micro-experimento em decodificação, uma pequena jornada em lógica, criatividade e curiosidade.
 
 ---
 
-🌈 Expanding Possibilities | Possibilidades de Expansão
+🌈 Expanding Possibilities || Possibilidades de Expansão
 
-Add word-level challenges | Adicionar desafios com palavras completas
-Reverse mode: Morse → Text | Modo inverso: Morse → Texto
-Include sound feedback for dots and dashes | Incluir feedback sonoro para pontos e traços
-Visual terminal effects: colors, blinking symbols, gradients | Efeitos visuais no terminal: cores, símbolos piscantes, gradientes
-These expansions can turn a simple trainer into an immersive Morse playground.
-Essas expansões podem transformar um treinador simples em um playground imersivo de Morse.
+Add word-level challenges || Adicionar desafios com palavras completas
+
+Reverse mode: Morse → Text || Modo inverso: Morse → Texto
+
+Include sound feedback for dots and dashes || Incluir feedback sonoro para pontos e traços
+
+Visual terminal effects: colors, blinking symbols, gradients || Efeitos visuais no terminal: cores, símbolos piscantes, gradientes
+
+These expansions can turn a simple trainer into an immersive Morse playground. || Essas expansões podem transformar um treinador simples em um playground imersivo de Morse.
 
 ---
 
 🤝 Contribute | Contribua
 
 Your ideas, experiments, and improvements are welcome:
-Open an issue | Abrir uma issue
-Suggest features | Sugerir funcionalidades
-Submit a pull request | Enviar pull request
 
-Together, we can make Morse learning artful, fun, and deeply engaging.
-Juntos, podemos tornar o aprendizado de Morse artístico, divertido e profundamente envolvente.
+Open an issue || Abrir uma issue
+
+Suggest features || Sugerir funcionalidades
+
+Submit a pull request || Enviar pull request
+
+Together, we can make Morse learning artful, fun, and deeply engaging. || Juntos, podemos tornar o aprendizado de Morse artístico, divertido e profundamente envolvente.
 
 ---
 
