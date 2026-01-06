@@ -19,29 +19,38 @@ Convida quem aprende a **interagir, experimentar e explorar padrões**, misturan
 
 ## ⚡ Features | Funcionalidades
 
-- Real-time translation from letters, numbers, and words || Tradução em tempo real de letras, números e palavras  
+**English:** 
 
+- Real-time translation from letters, numbers, and words ||  
 - Interactive terminal interface with feedback || Interface interativa no terminal com feedback  
-
 - Handles unknown characters gracefully || Reconhece caracteres desconhecidos  
-
 - Lightweight and immersive || Leve e envolvente  
+- Encourages learning through experimentation
 
-- Encourages learning through experimentation || Incentiva aprendizado por experimentação  
+## ** Português:**
+
+- Tradução em tempo real de letras, números e palavras
+- Interface interativa no terminal com feedback
+- Reconhece caracteres desconhecidos
+- Incentiva aprendizado por experimentação 
+- Leve e envolvente
 
 ---
 
 ## 🖥️ Installation | Como Rodar
 
-1. Clone the repository | Clone o repositório:  
+Clone the repository | Clone o repositório:  
 ``bash
-2. git clone https://github.com/maargadux/morse-trainer.git
-3. Enter the project folder | Entre na pasta do projeto:
-4. cd morse-trainer
-5. Run the program | Execute o programa:
-6. python morse_trainer.py
+git clone https://github.com/maargadux/morse-trainer.git
+Enter the project folder | Entre na pasta do projeto:
+cd morse-trainer
+Run the program | Execute o programa:
+python morse_trainer.py
 
+**English:** 
 Once running, type your message and let the Morse flow through you ✨
+
+**Português:**  
 Ao executar, digite sua mensagem e deixe o Morse fluir ✨
 
 ---
@@ -58,51 +67,71 @@ Example | Exemplo:
 Input: Hello 123
 Output: .... . .-.. .-.. ---  .---- ..--- ...--
 
+**English:** 
 This simple flow becomes a pattern meditation, blending logic, rhythm, and discovery.
+
+**Português:** 
 Esse fluxo simples se transforma em uma meditação de padrões, misturando lógica, ritmo e descoberta.
 
 ---
 
 🌌 Learning Beyond Code || Aprendizado Além do Código
 
-Morse trains memory and pattern recognition || Morse treina memória e reconhecimento de padrões
+**English:**
 
-Encourages experimentation with letters, numbers, and words || Incentiva experimentação com letras, números e palavras
+- Morse trains memory and pattern recognition.
+- Encourages experimentation with letters, numbers, and words.
+- Provides insight into communication systems.
+- Bridges coding and cognitive skills
+- Each session is a micro-experiment in decoding, a small journey in logic, creativity, and curiosity.
 
-Provides insight into communication systems || Dá noção sobre sistemas de comunicação
+**Português:** 
 
-Bridges coding and cognitive skills || Une programação e habilidades cognitivas
-
-Each session is a micro-experiment in decoding, a small journey in logic, creativity, and curiosity. || Cada sessão é um micro-experimento em decodificação, uma pequena jornada em lógica, criatividade e curiosidade.
-
+- Morse treina memória e reconhecimento de padrões
+- Incentiva experimentação com letras, números e palavras
+- Dá noção sobre sistemas de comunicação
+- Une programação e habilidades cognitivas
+- Cada sessão é um micro-experimento em decodificação, uma pequena jornada em lógica, criatividade e curiosidade.
+- 
 ---
 
 🌈 Expanding Possibilities || Possibilidades de Expansão
 
-Add word-level challenges || Adicionar desafios com palavras completas
+**English:**
 
-Reverse mode: Morse → Text || Modo inverso: Morse → Texto
+- Add word-level challenges.
+- Reverse mode: Morse → Text.
+- Include sound feedback for dots and dashes. 
+- Visual terminal effects: colors, blinking symbols, gradients.
+- These expansions can turn a simple trainer into an immersive Morse playground. 
 
-Include sound feedback for dots and dashes || Incluir feedback sonoro para pontos e traços
+**Português:**
 
-Visual terminal effects: colors, blinking symbols, gradients || Efeitos visuais no terminal: cores, símbolos piscantes, gradientes
-
-These expansions can turn a simple trainer into an immersive Morse playground. || Essas expansões podem transformar um treinador simples em um playground imersivo de Morse.
-
+- Adicionar desafios com palavras completas
+- Modo inverso: Morse → Texto
+- Incluir feedback sonoro para pontos e traços
+- Efeitos visuais no terminal: cores, símbolos piscantes, gradientes
+- Essas expansões podem transformar um treinador simples em um playground imersivo de Morse.
 ---
 
 🤝 Contribute | Contribua
 
 Your ideas, experiments, and improvements are welcome:
 
-Open an issue || Abrir uma issue
+**English:**
 
-Suggest features || Sugerir funcionalidades
+- Open an issue
+- Suggest features
+- Submit a pull request
+- Together, we can make Morse learning artful, fun, and deeply engaging.
 
-Submit a pull request || Enviar pull request
+**Português:**
 
-Together, we can make Morse learning artful, fun, and deeply engaging. || Juntos, podemos tornar o aprendizado de Morse artístico, divertido e profundamente envolvente.
-
+- Abrir uma issue
+- Sugerir funcionalidades
+- Enviar pull request
+- Juntos, podemos tornar o aprendizado de Morse artístico, divertido e profundamente envolvente.
+- 
 ---
 
 🔗 Links & Contact | Links & Contato
@@ -112,4 +141,5 @@ GitHub: https://github.com/maargadux
 Project inspiration & experiments: Explore patterns, rhythms, and code
 
 Keep experimenting, learning, and creating ✨
+
 
