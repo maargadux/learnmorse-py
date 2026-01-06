@@ -108,5 +108,8 @@ Together, we can make Morse learning artful, fun, and deeply engaging. || Juntos
 🔗 Links & Contact | Links & Contato
 
 GitHub: https://github.com/maargadux
+
 Project inspiration & experiments: Explore patterns, rhythms, and code
+
 Keep experimenting, learning, and creating ✨
+
